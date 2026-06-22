@@ -2,17 +2,10 @@
   <img width="1584" height="396" alt="Shubham - Full Stack Developer" src="https://raw.githubusercontent.com/shubhamradadiya/shubham/output/image.png" />
 </div>
 
----
-
-<div align="center">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
 
 ---
 
 <h1 align="center">Shubham Here, Full Stack Developer</h1>
-
----
 
 <h3 align="center">Frontend</h3>
 
@@ -42,7 +35,6 @@
   <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo" />
 </div>
 
----
 
 <h3 align="center">Backend</h3>
 
@@ -68,7 +60,6 @@
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="40" alt="socketio logo" />
 </div>
 
----
 
 <h3 align="center">Tools & Productivity</h3>
 
@@ -92,7 +83,6 @@
   <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo" />
 </div>
 
----
 
 <h3 align="center">DevOps & Cloud</h3>
 
@@ -111,5 +101,3 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo" />
 </div>
-
----
